@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [memory aide](https://github.com/gouravthakur39/Memory-aide-app)
 
-- 👨‍💻 All of my projects are available at [gouravthakur.com](gouravthakur.com)
+- 👨‍💻 All of my projects are available at [gouravthakur.com](https://gouravthakur.com)
 
-- 📝 I regularly write articles on [gouravthakur.com](gouravthakur.com)
+- 📝 I regularly write articles on [gouravthakur.com](https://gouravthakur.com)
 
 - 💬 Ask me about **React, Javascript**
 
