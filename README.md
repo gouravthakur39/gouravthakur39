@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gouravthakur39" target="blank"><img src="https://img.shields.io/twitter/follow/gouravthakur39?logo=twitter&style=for-the-badge" alt="gouravthakur39" /></a> </p>
 
-- 🔭 I’m currently working on [memory aide](https://github.com/gouravthakur39/Memory-aide-app)
+- 🔭 I’m currently working on [memory aide](https://github.com/gouravthakur39/memoryaide)
 
 - 👨‍💻 All of my projects are available at [gouravthakur.com](https://gouravthakur.com)
 
