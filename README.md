@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gourav thakur</h1>
-<h3 align="center">A passionate front end developer with a design sense from India</h3>
+<h3 align="center">Devops engineer by profession but always consider himself as a developer and an opensource enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravthakur39" alt="gouravthakur39" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gouravthakur39" target="blank"><img src="https://img.shields.io/twitter/follow/gouravthakur39?logo=twitter&style=for-the-badge" alt="gouravthakur39" /></a> </p>
-
-- 🔭 I’m currently working on [memory aide](https://github.com/gouravthakur39/memoryaide)
 
 - 👨‍💻 All of my projects are available at [gouravthakur.com](https://gouravthakur.com)
 
